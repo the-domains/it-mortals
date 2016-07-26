@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[IT Mortals]]></title>
         <description><![CDATA[IT Mortals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/it-mortals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 21:01:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 21:01:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/it-mortals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Basics - Find MAC Address - Mac OS X]]></title>
             <description><![CDATA[<article><h1>Basics - Find MAC Address - Mac OS X</h1><p>Basics - Find MAC Address - Mac OS X You may be asked by an IT person for your computer's MAC Address. This is the Physical Address on your computer's network adapter - whether that is your Wired Ethernet adapter or your Wireless adapter.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab751a63c8930d8bd972d74835984fa8/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXITBk03Ufzw%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=XITBk03Ufzw&amp;list=PLKmqKSGq2uk0_I5eAdK-7pWFkhvvH-ypy&amp;index=1</link>
             <guid isPermaLink="false">7f70e161-1d05-43ac-be2c-ba857e33a94e</guid>
             <pubDate>Tue, 26 Jul 2016 21:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Basics - Find MAC Address in 10 seconds! - Windows 10]]></title>
+            <description><![CDATA[<article><h1>Basics - Find MAC Address in 10 seconds! - Windows 10</h1><p>Basics - Find MAC Address in 10 seconds! - Windows 10 (This method also works for Windows 7 and 8) You may be asked by an IT person for your computer's MAC Address. This is the Physical Address on your computer's network adapter - whether that is your Wired Ethernet adapter or your Wireless adapter.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=9SDaI9qhCIQ&amp;list=PLKmqKSGq2uk0_I5eAdK-7pWFkhvvH-ypy&amp;index=2</link>
+            <guid isPermaLink="false">9fbc8e15-79f8-4656-8b2b-b0de5861557d</guid>
+            <pubDate>Tue, 26 Jul 2016 21:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
